@@ -21,14 +21,14 @@
 
 ## 0. Git Basics
 
-+
+New
     - Usually, work with Git by IDE. It's surprising for me how easy/more flexible is working with Git in terminal!
     - Staging/Working/Trash area.
     - Revert/reset topic. Before know just reset --hard and was interesting to know how it really works, and other flags as --soft or --mixed.
 
-!
+Surprised
     - Usually, work with Git by IDE. It's surprising for me how easy/more flexible is working with Git in terminal!
 
-->
+Will use
     - How to manipulate merging.
     - And, of course, use git status everytime! :)
