@@ -1,5 +1,7 @@
 # kottans-frontend
+
 # Stage 0. Self-Study
+
 ## General
 - [X] Git Basics
 - [ ] Linux CLI and Networking
@@ -37,3 +39,26 @@
 
 - How to manipulate merging.
 - And, of course, use git status everytime! :)
+
+
+
+## Linux CLI, and HTTP
+
+[Screenshot Linux_CLI](task_linux_cli/linux_survival.png)
+
+#### New
+
+- Magic of many new (almost all for me) new Terminal commands.
+- Info about HTTP/S protocols. How to create request, get, read responses.
+
+
+#### Surprised
+
+- Man man command.
+- Cache algorithm.
+
+
+#### Will use
+
+- Most common commands will use for sure, and try to find a chance to use process, permission and etc commands, for now don't know where to use them.
+- Server/client side requests using http protocol. Cache.
