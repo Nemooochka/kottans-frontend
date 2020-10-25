@@ -4,7 +4,7 @@
 
 ## General
 - [X] Git Basics
-- [ ] Linux CLI and Networking
+- [X] Linux CLI and Networking
 - [ ] VCS (hello gitty), GitHub and Collaboration
 ## Front-End Basics
 - [ ] Intro to HTML & CSS
