@@ -21,7 +21,7 @@
 - [ ] Website Performance Optimization
 - [ ] Friends App - real project!
 
-## 0. Git Basics
+## Git Basics
 
 #### New
 
