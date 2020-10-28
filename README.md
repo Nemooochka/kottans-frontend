@@ -62,3 +62,25 @@
 
 - Most common commands will use for sure, and try to find a chance to use process, permission and etc commands, for now don't know where to use them.
 - Server/client side requests using http protocol. Cache.
+
+
+
+## Git Collaboration
+
+[Screenshot Linux_CLI](task_git_collaboration/udemy_git_collab.png)
+[Screenshot Linux_CLI](task_git_collaboration/learn-git1.png)
+[Screenshot Linux_CLI](task_git_collaboration/learn-git2.png)
+
+#### New
+
+- How to work with Git on open-source project
+
+
+#### Surprised
+
+- Powerful of git rebase command
+
+
+#### Will use
+
+- New git commands like rebase, fetch and also how to work together on the same project by forking
