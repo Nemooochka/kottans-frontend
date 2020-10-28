@@ -67,9 +67,9 @@
 
 ## Git Collaboration
 
-[Screenshot Linux_CLI](task_git_collaboration/udemy_git_collab.png)
-[Screenshot Linux_CLI](task_git_collaboration/learn-git1.png)
-[Screenshot Linux_CLI](task_git_collaboration/learn-git2.png)
+[Screenshot Udemy collaboration](task_git_collaboration/udemy_git_collab.png)
+[Screenshot Learn git first](task_git_collaboration/learn-git1.png)
+[Screenshot Learn git second](task_git_collaboration/learn-git2.png)
 
 #### New
 
