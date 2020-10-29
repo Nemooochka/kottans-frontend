@@ -8,7 +8,7 @@
 - [X] VCS (hello gitty), GitHub and Collaboration
 ## Front-End Basics
 - [X] Intro to HTML & CSS
-- [ ] Responsive Web Design
+- [X] Responsive Web Design
 - [ ] HTML & CSS Practice
 - [ ] JavaScript Basics
 - [ ] Document Object Model - practice
@@ -89,10 +89,34 @@
 
 ## Intro to HTML and CSS
 
+[Udacity html/css](task_html_css_intro/udacity-html_css.png),
+[Codeacademy html](task_html_css_intro/codeacademy-html.png),
+[Codeacademy css](task_html_css_intro/codeacademy-css.png)
+
 #### New
 
 - Actually, nothing new in this lesson as have completed these courses before
 
-[Udacity html/css](task_html_css_intro/udacity-html_css.png),
-[Codeacademy html](task_html_css_intro/codeacademy-html.png),
-[Codeacademy css](task_html_css_intro/codeacademy-css.png)
+
+
+## Responsive Web Design
+
+[Udacity responsive](task_responsive_web_design/udacity-web_design.png),
+[Flexbox froggy](task_responsive_web_design/flex-froggy.png),
+
+#### New
+
+- Many approach to responsive web sites (off canvas, row fluid etc).
+- Align-items.
+
+
+#### Surprised
+
+- Using attributes in css. Like use data-tr attr to be added to css :before as content.
+
+
+#### Will use
+
+- 65 characters per line.
+- Flexbox power
+
