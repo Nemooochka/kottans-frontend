@@ -7,7 +7,7 @@
 - [X] Linux CLI and Networking
 - [X] VCS (hello gitty), GitHub and Collaboration
 ## Front-End Basics
-- [ ] Intro to HTML & CSS
+- [X] Intro to HTML & CSS
 - [ ] Responsive Web Design
 - [ ] HTML & CSS Practice
 - [ ] JavaScript Basics
@@ -84,3 +84,15 @@
 #### Will use
 
 - New git commands like rebase, fetch and also how to work together on the same project by forking
+
+
+
+## Intro to HTML and CSS
+
+#### New
+
+- Actually, nothing new in this lesson as have completed these courses before
+
+[Screenshot Udemy html/css](task_html_css_intro/udemy-html_css.png)
+[Screenshot Codeacademy html](task_html_css_intro/codeacademy-html.png)
+[Screenshot Codeacademy css](task_html_css_intro/codeacademy-css.png)
