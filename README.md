@@ -67,7 +67,7 @@
 
 ## Git Collaboration
 
-[Udemy collaboration](task_git_collaboration/udemy_git_collab.png),
+[Udacity collaboration](task_git_collaboration/udacity_git_collab.png),
 [Learn git first](task_git_collaboration/learn-git1.png),
 [Learn git second](task_git_collaboration/learn-git2.png)
 
@@ -93,6 +93,6 @@
 
 - Actually, nothing new in this lesson as have completed these courses before
 
-[Udemy html/css](task_html_css_intro/udemy-html_css.png),
+[Udacity html/css](task_html_css_intro/udacity-html_css.png),
 [Codeacademy html](task_html_css_intro/codeacademy-html.png),
 [Codeacademy css](task_html_css_intro/codeacademy-css.png)
