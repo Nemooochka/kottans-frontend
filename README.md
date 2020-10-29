@@ -44,7 +44,7 @@
 
 ## Linux CLI, and HTTP
 
-[Screenshot Linux_CLI](task_linux_cli/linux_survival.png)
+[Linux_CLI](task_linux_cli/linux_survival.png)
 
 #### New
 
@@ -67,9 +67,9 @@
 
 ## Git Collaboration
 
-[Screenshot Udemy collaboration](task_git_collaboration/udemy_git_collab.png)
-[Screenshot Learn git first](task_git_collaboration/learn-git1.png)
-[Screenshot Learn git second](task_git_collaboration/learn-git2.png)
+[Udemy collaboration](task_git_collaboration/udemy_git_collab.png),
+[Learn git first](task_git_collaboration/learn-git1.png),
+[Learn git second](task_git_collaboration/learn-git2.png)
 
 #### New
 
@@ -93,6 +93,6 @@
 
 - Actually, nothing new in this lesson as have completed these courses before
 
-[Screenshot Udemy html/css](task_html_css_intro/udemy-html_css.png)
-[Screenshot Codeacademy html](task_html_css_intro/codeacademy-html.png)
-[Screenshot Codeacademy css](task_html_css_intro/codeacademy-css.png)
+[Udemy html/css](task_html_css_intro/udemy-html_css.png),
+[Codeacademy html](task_html_css_intro/codeacademy-html.png),
+[Codeacademy css](task_html_css_intro/codeacademy-css.png)
