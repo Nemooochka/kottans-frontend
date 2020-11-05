@@ -9,8 +9,8 @@
 ## Front-End Basics
 - [X] Intro to HTML & CSS
 - [X] Responsive Web Design
-- [ ] HTML & CSS Practice
-- [ ] JavaScript Basics
+- [X] HTML & CSS Practice
+- [X] JavaScript Basics
 - [ ] Document Object Model - practice
 ## Advanced Topics
 - [ ] Building a Tiny JS World (pre-OOP) - practice
@@ -102,7 +102,7 @@
 ## Responsive Web Design
 
 [Udacity responsive](task_responsive_web_design/udacity-web_design.png),
-[Flexbox froggy](task_responsive_web_design/flex-froggy.png),
+[Flexbox froggy](task_responsive_web_design/flex-froggy.png)
 
 #### New
 
@@ -120,3 +120,26 @@
 - 65 characters per line.
 - Flexbox power
 
+
+
+## JS Basics
+
+[Udacity js](task_js_basic/udacity-js.png),
+[Freecodecamp js](task_js_basic/javascript-freecodecamp.png)
+
+### New
+
+- ES5 (like ...array, arrow functions)
+- Many-many js built-in ,methods
+
+
+#### Surprised
+
+- Interesting algorithm tasks, how you can do the same with different approaches.
+
+
+#### Will use
+
+- ES5 features.
+- Javascript build-in methods.
+- Regular expressions.
