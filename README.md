@@ -11,11 +11,11 @@
 - [X] Responsive Web Design
 - [X] HTML & CSS Practice
 - [X] JavaScript Basics
-- [ ] Document Object Model - practice
+- [X] Document Object Model - practice
 ## Advanced Topics
-- [ ] Building a Tiny JS World (pre-OOP) - practice
-- [ ] Object oriented JS - practice
-- [ ] OOP exercise - practice
+- [X] Building a Tiny JS World (pre-OOP) - practice
+- [X] Object oriented JS - practice
+- [X] OOP exercise - practice
 - [ ] Offline Web Applications
 - [ ] Memory pair game — real project!
 - [ ] Website Performance Optimization
@@ -143,3 +143,49 @@
 - ES5 features.
 - Javascript build-in methods.
 - Regular expressions.
+
+
+
+## DOM
+
+[Udacity js](task_js_dom/udacity-js_dom.png),
+[Freecodecamp js](task_js_dom/javascript-freecodecamp.png)
+
+### New
+
+- Event loop
+- setTimeout() to run script just after Call stack is empty (good for break-up long-running code)
+
+
+#### Surprised
+
+- Reflow and Repaint
+
+
+#### Will use
+
+- Event loop advantages
+- Performance improvement (event loop, reflow, repaint)
+
+
+
+## Object Oriented JS
+
+[Udacity js](task_js_oop/udacity-oop.png),
+[Codewar profile (]https://www.codewars.com/users/Nemooochka)
+
+### New
+
+- Prototypes logic
+- Working with 'this'
+
+
+#### Surprised
+
+- Different wrong approaches to work with classes
+
+
+#### Will use
+
+- 'this'. Just need to remember when it works well fo sure (remember that magic dot .)
+- Prototype functionality. Super class, pseudo class etc.
