@@ -172,7 +172,7 @@
 ## Object Oriented JS
 
 [Udacity js](task_js_oop/udacity-oop.png),
-[Codewar profile] (https://www.codewars.com/users/Nemooochka)
+[Codewar profile](https://www.codewars.com/users/Nemooochka)
 
 ### New
 
