@@ -17,7 +17,7 @@
 - [X] Object oriented JS - practice
 - [X] OOP exercise - practice
 - [ ] Offline Web Applications
-- [ ] Memory pair game — real project!
+- [X] Memory pair game — real project!
 - [ ] Website Performance Optimization
 - [ ] Friends App - real project!
 
