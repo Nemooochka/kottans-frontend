@@ -16,10 +16,10 @@
 - [X] Building a Tiny JS World (pre-OOP) - practice
 - [X] Object oriented JS - practice
 - [X] OOP exercise - practice
-- [ ] Offline Web Applications
+- [X] Offline Web Applications
 - [X] Memory pair game — real project!
 - [ ] Website Performance Optimization
-- [ ] Friends App - real project!
+- [X] Friends App - real project!
 
 ## Git Basics
 
@@ -189,3 +189,59 @@
 
 - 'this'. Just need to remember when it works well fo sure (remember that magic dot .)
 - Prototype functionality. Super class, pseudo class etc.
+
+
+## Offline Web Applications
+
+[Udacity offline web app](task_offline_web_app/udacity-offline-web-app.png),
+
+### New
+
+- It's totally new idea for me.
+
+
+#### Surprised
+
+- How to use cache.
+
+
+#### Will use
+
+- Cache and how to improve offline/with bad connection web apps.
+
+
+
+
+## HTML/CSS Popup
+
+[Demo](https://nemooochka.github.io/frontend-2021-homeworks/submissions/Nemooochka/html-css-popup/),
+[Code](https://github.com/Nemooochka/frontend-2021-homeworks/tree/html-css-popup)
+
+## JS DOM
+
+[Demo](https://nemooochka.github.io/frontend-2021-homeworks/submissions/Nemooochka/js-dom/),
+[Code](https://github.com/Nemooochka/frontend-2021-homeworks/tree/js-dom)
+
+
+## Tiny js
+
+[Demo](https://nemooochka.github.io/a-tiny-JS-world/),
+[Code](https://github.com/Nemooochka/a-tiny-JS-world)
+
+
+## Frogger game
+
+[Demo](https://nemooochka.github.io/frontend-nanodegree-arcade-game/index.html),
+[Code](https://github.com/Nemooochka/frontend-2021-homeworks/blob/frogger-game/submissions/Nemooochka/frogger-game/app.js)
+
+
+## Memory pair
+
+[Demo](https://nemooochka.github.io/frontend-2021-homeworks/submissions/Nemooochka/memory-pair/index.html),
+[Code](https://github.com/Nemooochka/frontend-2021-homeworks/tree/memory-pair/submissions/Nemooochka/memory-pair)
+
+
+## Friends App
+
+[Demo](https://nemooochka.github.io/frontend-2021-homeworks/submissions/Nemooochka/friends-app/index.html),
+[Code](https://github.com/Nemooochka/frontend-2021-homeworks/tree/friends-app/submissions/Nemooochka/friends-app)
