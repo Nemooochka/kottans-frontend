@@ -193,7 +193,7 @@
 
 ## Offline Web Applications
 
-[Udacity offline web app](task_offline_web_app/udacity-offline-web-app.png),
+[Udacity offline web app](task_offline_web_app/udacity-offline-web-app.png)
 
 ### New
 
